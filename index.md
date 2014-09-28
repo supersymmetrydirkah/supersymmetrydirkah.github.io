@@ -6,8 +6,6 @@ layout: default
     
 [View Supersymmetrydirkah.github.io on GitHub](https://github.com/supersymmetrydirkah)
 
-#Josh Steffen
-
 ##Iron yardin it up
       
 ### my blogs
@@ -26,7 +24,7 @@ layout: default
 
 [Are we there yet](2014/09/28/blog-7.html)
 
-### repo shizzle sticks
+### repo projects
 
 [TIY-Assignments](https://github.com/supersymmetrydirkah/TIY-Assignments)
 
