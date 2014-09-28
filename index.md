@@ -20,6 +20,13 @@ layout: default
 
 [I blog therefore I'm bloggin all ova tha place](2014/09/25/blog-4.html)
 
+[Buy the ticket-take the ride](2014/09/25/blog-5.html)
+
+[Must think like a Jedi](2014/09/25/blog-6.html)
+
+[Are we there yet](2014/09/25/blog-7.html)
+
+
 ### repo shizzle sticks
 
 [TIY-Assignments](https://github.com/supersymmetrydirkah/TIY-Assignments)
