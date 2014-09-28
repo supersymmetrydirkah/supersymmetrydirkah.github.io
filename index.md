@@ -26,7 +26,6 @@ layout: default
 
 [Are we there yet](2014/09/25/blog-7.html)
 
-
 ### repo shizzle sticks
 
 [TIY-Assignments](https://github.com/supersymmetrydirkah/TIY-Assignments)
